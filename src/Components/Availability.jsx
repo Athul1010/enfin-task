@@ -1,4 +1,4 @@
-"use client"; // Use this directive to enable React hooks
+"use client"; 
 
 import { useState } from 'react';
 import DatePicker from 'react-datepicker';
